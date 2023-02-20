@@ -17,7 +17,6 @@ graphql-core==2.3.2
 greenlet==2.0.2
 graphql-relay==2.0.1
 h11==0.14.0
-httptools==0.3.0
 idna
 itsdangerous==2.1.2
 Jinja2==3.0.1
